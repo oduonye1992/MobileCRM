@@ -1,0 +1,1106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8e2d3bc-d660-47fb-a01b-7152c5f2b5f6" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.8107448">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="item-detail.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/item-detail/item-detail.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="499">
+                  <caret line="30" column="3" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+                  <folding>
+                    <element signature="e#0#42#0" expanded="true" />
+                    <element signature="n#!!block;n#switchToDetails#0;n#ItemDetailPage#0" expanded="false" />
+                    <element signature="n#!!block;n#switchToFlow#0;n#ItemDetailPage#0" expanded="false" />
+                    <element signature="n#!!block;n#fetchActivitesForDeal#0;n#ItemDetailPage#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="list-master.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/list-master/list-master.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="499">
+                  <caret line="41" column="34" lean-forward="true" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+                  <folding>
+                    <element signature="e#0#40#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="person-list.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/person-list/person-list.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="470">
+                  <caret line="56" column="11" lean-forward="true" selection-start-line="56" selection-start-column="11" selection-end-line="56" selection-end-column="11" />
+                  <folding>
+                    <element signature="e#0#42#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="activity-create.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/activity-create/activity-create.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="327">
+                  <caret line="69" column="51" lean-forward="true" selection-start-line="69" selection-start-column="51" selection-end-line="69" selection-end-column="51" />
+                  <folding>
+                    <element signature="e#719#1266#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="item-detail.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/item-detail/item-detail.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+                  <folding>
+                    <element signature="n#ion-item-sliding#1;n#div#3;n#div#0;n#ion-content#0;n#!!top" expanded="false" />
+                    <element signature="n#ion-item-sliding#2;n#div#3;n#div#0;n#ion-content#0;n#!!top" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="list-master.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/list-master/list-master.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="269">
+                  <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="person-detail.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/person-detail/person-detail.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="470">
+                  <caret line="60" column="19" lean-forward="true" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+                  <folding>
+                    <element signature="e#0#42#0" expanded="true" />
+                    <element signature="n#!!block;n#fetchActivities#0;n#PersonDetailPage#0" expanded="false" />
+                    <element signature="n#!!block;n#fetchDeals#0;n#PersonDetailPage#0" expanded="false" />
+                    <element signature="n#!!block;n#switchToGeneral#0;n#PersonDetailPage#0" expanded="false" />
+                    <element signature="n#!!block;n#switchToFlow#0;n#PersonDetailPage#0" expanded="false" />
+                    <element signature="n#!!block;n#switchToDeals#0;n#PersonDetailPage#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="deal-details.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/deal-details/deal-details.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="290">
+                  <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="person-detail.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/pages/person-detail/person-detail.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="348">
+                  <caret line="27" column="50" lean-forward="false" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+                  <folding>
+                    <element signature="e#900#906#0" expanded="true" />
+                    <element signature="e#907#913#0" expanded="true" />
+                    <marker date="1489182128000" expanded="true" signature="1401:1407" ph="..." />
+                    <marker date="1489182128000" expanded="true" signature="1443:2212" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="OrganizationService.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/services/OrganizationService.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="180">
+                  <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+                  <folding>
+                    <element signature="e#0#41#0" expanded="true" />
+                    <element signature="n#!!block;n#all#0;n#OrganizationService#0" expanded="false" />
+                    <element signature="n#!!block;n#update#0;n#OrganizationService#0" expanded="false" />
+                    <element signature="n#!!block;n#activities#0;n#OrganizationService#0" expanded="false" />
+                    <element signature="n#!!block;n#deals#0;n#OrganizationService#0" expanded="false" />
+                    <element signature="n#!!block;n#files#0;n#OrganizationService#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/app.module.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="516">
+                  <caret line="91" column="14" lean-forward="false" selection-start-line="91" selection-start-column="14" selection-end-line="91" selection-end-column="14" />
+                  <folding>
+                    <element signature="e#0#55#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/app.component.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="261">
+                  <caret line="46" column="29" lean-forward="false" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+                  <folding>
+                    <element signature="e#0#53#0" expanded="true" />
+                    <marker date="1489174488000" expanded="true" signature="1309:1632" ph="..." />
+                    <marker date="1489174488000" expanded="true" signature="1326:1422" ph="..." />
+                    <marker date="1489174488000" expanded="true" signature="1346:1404" ph="..." />
+                    <marker date="1489174488000" expanded="true" signature="1441:1617" ph="..." />
+                    <marker date="1489174488000" expanded="true" signature="1458:1598" ph="..." />
+                    <marker date="1489174488000" expanded="true" signature="1540:1580" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="item-create.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/item-create/item-create.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="586">
+                  <caret line="92" column="3" lean-forward="true" selection-start-line="92" selection-start-column="3" selection-end-line="92" selection-end-column="3" />
+                  <folding>
+                    <element signature="n#!!block;n#constructor#0;n#ItemCreatePage#0" expanded="false" />
+                    <element signature="e#1464#1515#0" expanded="false" />
+                    <element signature="n#!!block;n#save#0;n#ItemCreatePage#0" expanded="false" />
+                    <element signature="n#!!block;n#getValues#0;n#ItemCreatePage#0" expanded="false" />
+                    <element signature="n#!!block;n#fetchPerson#0;n#ItemCreatePage#0" expanded="false" />
+                    <element signature="n#!!block;n#getPicture#0;n#ItemCreatePage#0" expanded="false" />
+                    <element signature="n#!!block;n#processWebImage#0;n#ItemCreatePage#0" expanded="false" />
+                    <element signature="n#!!block;n#getProfileImageStyle#0;n#ItemCreatePage#0" expanded="false" />
+                    <element signature="n#!!doc;n#cancel#0;n#ItemCreatePage#0" expanded="false" />
+                    <element signature="n#!!block;n#cancel#0;n#ItemCreatePage#0" expanded="false" />
+                    <element signature="n#!!doc;n#done#0;n#ItemCreatePage#0" expanded="false" />
+                    <element signature="n#!!block;n#done#0;n#ItemCreatePage#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="deal-details.ts" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/pages/deal-details/deal-details.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="348">
+                  <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+                  <folding>
+                    <element signature="e#0#42#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="activity-create.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/activity-create/activity-create.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="412">
+                  <caret line="72" column="25" lean-forward="false" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+                  <folding>
+                    <element signature="e#0#42#0" expanded="true" />
+                    <element signature="n#!!block;n#save#0;n#ActivityCreatePage#0" expanded="false" />
+                    <element signature="n#!!block;n#fetchPerson#0;n#ActivityCreatePage#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ActivityService.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/services/ActivityService.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="319">
+                  <caret line="22" column="18" lean-forward="false" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+                  <folding>
+                    <element signature="n#!!block;n#activities#0;n#ActivityService#0" expanded="false" />
+                    <element signature="n#!!block;n#deals#0;n#ActivityService#0" expanded="false" />
+                    <element signature="n#!!block;n#files#0;n#ActivityService#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="activity-list.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/activity-list/activity-list.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="638">
+                  <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+                  <folding>
+                    <element signature="e#0#42#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="item-create.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/item-create/item-create.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="298">
+                  <caret line="44" column="14" lean-forward="true" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+                  <folding>
+                    <element signature="e#722#1287#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="activity-list.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/activity-list/activity-list.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="377">
+                  <caret line="29" column="15" lean-forward="false" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+                  <folding>
+                    <element signature="n#ion-item-options#0;n#ion-item-sliding#0;n#ion-list#0;n#ion-content#0;n#!!top" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="person-create.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/person-create/person-create.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="240">
+                  <caret line="44" column="15" lean-forward="true" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
+                  <folding>
+                    <element signature="e#693#1240#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>formcon</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/config/settings.ts" />
+        <option value="$PROJECT_DIR$/pages/activity-list/activity-list.html" />
+        <option value="$PROJECT_DIR$/app/services/OrganisationService.ts" />
+        <option value="$PROJECT_DIR$/pages/organization-list/organization-list.html" />
+        <option value="$PROJECT_DIR$/app/services/PeopleService.ts" />
+        <option value="$PROJECT_DIR$/pages/organization-detail/organization-detail.ts" />
+        <option value="$PROJECT_DIR$/app/services/OrganizationService.ts" />
+        <option value="$PROJECT_DIR$/pages/organization-detail/organization-detail.html" />
+        <option value="$PROJECT_DIR$/pages/list-master/list-master.ts" />
+        <option value="$PROJECT_DIR$/pages/item-create/item-create.html" />
+        <option value="$PROJECT_DIR$/pages/item-create/item-create.ts" />
+        <option value="$PROJECT_DIR$/app/services/DealService.ts" />
+        <option value="$PROJECT_DIR$/app/services/httpw.ts" />
+        <option value="$PROJECT_DIR$/pages/person-create/person-create.ts" />
+        <option value="$PROJECT_DIR$/pages/person-list/person-list.html" />
+        <option value="$PROJECT_DIR$/pages/person-list/person-list.ts" />
+        <option value="$PROJECT_DIR$/pages/person-create/person-create.html" />
+        <option value="$PROJECT_DIR$/pages/organisation-create/organisation-create.html" />
+        <option value="$PROJECT_DIR$/pages/organisation-create/organisation-create.ts" />
+        <option value="$PROJECT_DIR$/pages/organization-list/organization-list.ts" />
+        <option value="$PROJECT_DIR$/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/pages/list-master/list-master.html" />
+        <option value="$PROJECT_DIR$/pages/activity-list/activity-list.ts" />
+        <option value="$PROJECT_DIR$/app/services/ActivityService.ts" />
+        <option value="$PROJECT_DIR$/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/pages/activity-create/activity-create.ts" />
+        <option value="$PROJECT_DIR$/pages/activity-create/activity-create.html" />
+        <option value="$PROJECT_DIR$/pages/item-detail/item-detail.ts" />
+        <option value="$PROJECT_DIR$/pages/person-detail/person-detail.ts" />
+        <option value="$PROJECT_DIR$/pages/item-detail/item-detail.html" />
+        <option value="$PROJECT_DIR$/pages/person-detail/person-detail.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="providers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="item-create" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="com.intellij.application.options.CodeStyleSchemesConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="JavaScriptLanguageLevel" value="ES5" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="person&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/person-detail/person-detail.html&#10;deal&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/deal-details/deal-details.html&#10;item&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/item-detail/item-detail.html&#10;it&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/item-detail/item-detail.ts&#10;deal-d&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/deal-details/deal-details.ts&#10;activity-&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/activity-create/activity-create.html&#10;appmo&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/app/app.module.ts&#10;acti&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/activity-list/activity-list.ts&#10;list&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/list-master/list-master.ts&#10;list-ma&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/list-master/list-master.html&#10;appcom&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/app/app.component.ts&#10;activi&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/activity-create/activity-create.html&#10;activity-c&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/activity-create/activity-create.ts&#10;pers&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/person-create/person-create.html&#10;item-&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/item-create/item-create.html&#10;organization&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/organization-list/organization-list.ts&#10;personc&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/person-create/person-create.ts&#10;organisa&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/organisation-create/organisation-create.html&#10;organi&#9;null&#9;null&#10;perso&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/person-create/person-create.html&#10;app&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/app/app.module.ts&#10;mas&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/list-master/list-master.ts&#10;personl&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/person-list/person-list.ts&#10;appc&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/app/app.component.ts&#10;item c&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/item-create/item-create.ts&#10;person-cr&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/person-create/person-create.html&#10;person- c&#9;null&#9;null&#10;master&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/list-master/list-master.ts&#10;eal&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/app/services/DealService.ts&#10;dealser&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/app/services/DealService.ts&#10;cre&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/item-create/item-create.ts&#10;det&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/item-detail/item-detail.ts&#10;listmas&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/list-master/list-master.ts&#10;itemc&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/item-create/item-create.html&#10;or&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/organization-list/organization-list.ts&#10;item-c&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/item-create/item-create.ts&#10;organ&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/app/services/OrganizationService.ts&#10;deta&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/item-detail/item-detail.html&#10;organis&#9;null&#9;null&#10;organiza&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/organization-detail/organization-detail.html&#10;mast&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/list-master/list-master.html&#10;vertica&#9;ACTION&#9;SplitVertically&#10;person-deta&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/person-detail/person-detail.html&#10;person-de&#9;null&#9;null&#10;item-de&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/item-detail/item-detail.html&#10;apmo&#9;null&#9;null&#10;appm&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/app/app.module.ts&#10;detail&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/pages/item-detail/item-detail.html&#10;compo&#9;FILE&#9;file:///Users/danieloduonye/Dropbox/Daniel/Work/Projects/Apps/MobileCRM/src/app/app.component.ts" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="typescript-compiler-editor-notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/services" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8e2d3bc-d660-47fb-a01b-7152c5f2b5f6" name="Default" comment="" />
+      <created>1489069169081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489069169081</updated>
+      <workItem from="1489069170394" duration="7544000" />
+      <workItem from="1489088630418" duration="28760000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="36304000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1953602" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3773585" sideWeight="0.502442" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1740042" sideWeight="0.497558" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1218">
+          <caret line="42" column="19" lean-forward="false" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+            <marker date="1489174488000" expanded="true" signature="1309:1632" ph="..." />
+            <marker date="1489174488000" expanded="true" signature="1326:1422" ph="..." />
+            <marker date="1489174488000" expanded="true" signature="1346:1404" ph="..." />
+            <marker date="1489174488000" expanded="true" signature="1441:1617" ph="..." />
+            <marker date="1489174488000" expanded="true" signature="1458:1598" ph="..." />
+            <marker date="1489174488000" expanded="true" signature="1540:1580" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/list-master/list-master.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1624">
+          <caret line="56" column="43" lean-forward="true" selection-start-line="56" selection-start-column="43" selection-end-line="56" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/item-create/item-create.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!block;n#constructor#0;n#ItemCreatePage#0" expanded="false" />
+            <element signature="e#1464#1515#0" expanded="false" />
+            <element signature="n#!!block;n#save#0;n#ItemCreatePage#0" expanded="false" />
+            <element signature="n#!!block;n#getValues#0;n#ItemCreatePage#0" expanded="false" />
+            <element signature="n#!!block;n#fetchPerson#0;n#ItemCreatePage#0" expanded="false" />
+            <element signature="n#!!block;n#getPicture#0;n#ItemCreatePage#0" expanded="false" />
+            <element signature="n#!!block;n#processWebImage#0;n#ItemCreatePage#0" expanded="false" />
+            <element signature="n#!!block;n#getProfileImageStyle#0;n#ItemCreatePage#0" expanded="false" />
+            <element signature="n#!!doc;n#cancel#0;n#ItemCreatePage#0" expanded="false" />
+            <element signature="n#!!block;n#cancel#0;n#ItemCreatePage#0" expanded="false" />
+            <element signature="n#!!doc;n#done#0;n#ItemCreatePage#0" expanded="false" />
+            <element signature="n#!!block;n#done#0;n#ItemCreatePage#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/item-create/item-create.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/item-detail/item-detail.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/item-detail/item-detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+          <folding>
+            <element signature="e#970#976#0" expanded="false" />
+            <element signature="e#977#983#0" expanded="false" />
+            <element signature="e#984#990#0" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#ion-content#0;n#!!top" expanded="false" />
+            <element signature="n#ion-item-sliding#0;n#div#3;n#div#0;n#ion-content#0;n#!!top" expanded="false" />
+            <element signature="n#ion-item-sliding#1;n#div#3;n#div#0;n#ion-content#0;n#!!top" expanded="false" />
+            <element signature="n#ion-item-sliding#2;n#div#3;n#div#0;n#ion-content#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/list-master/list-master.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1015">
+          <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/DealService.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/httpw.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1885">
+          <caret line="68" column="5" lean-forward="false" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/settings.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/pages.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#75#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/MiscService.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+            <element signature="n#!!block;n#login#0;n#ActivityService#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/settings.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/PeopleService.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="42" column="40" lean-forward="false" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <element signature="n#!!block;n#files#0;n#PersonService#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/organization-list/organization-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/organization-detail/organization-detail.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="57" column="28" lean-forward="false" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+          <folding>
+            <element signature="n#!!block;n#ionViewDidLoad#0;n#OrganizationDetailPage#0" expanded="false" />
+            <element signature="n#!!block;n#fetchActivities#0;n#OrganizationDetailPage#0" expanded="false" />
+            <element signature="n#!!block;n#fetchDeals#0;n#OrganizationDetailPage#0" expanded="false" />
+            <element signature="n#!!block;n#switchToGeneral#0;n#OrganizationDetailPage#0" expanded="false" />
+            <element signature="n#!!block;n#switchToFlow#0;n#OrganizationDetailPage#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/organization-detail/organization-detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="n#ion-fab-list#0;n#ion-fab#0;n#ion-content#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#ion-content#0;n#!!top" expanded="false" />
+            <element signature="n#ion-segment-button#0;n#ion-segment#0;n#div#0;n#ion-content#0;n#!!top" expanded="false" />
+            <element signature="n#ion-segment-button#1;n#ion-segment#0;n#div#0;n#ion-content#0;n#!!top" expanded="false" />
+            <element signature="n#ion-segment-button#2;n#ion-segment#0;n#div#0;n#ion-content#0;n#!!top" expanded="false" />
+            <element signature="n#ion-segment-button#3;n#ion-segment#0;n#div#0;n#ion-content#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#ion-content#0;n#!!top" expanded="false" />
+            <element signature="n#ion-item-sliding#0;n#div#2;n#div#0;n#ion-content#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#ion-content#0;n#!!top" expanded="false" />
+            <element signature="n#ion-item-sliding#0;n#div#3;n#div#0;n#ion-content#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#ion-content#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/httpw.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/DealService.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/person-list/person-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="32" column="34" lean-forward="false" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/organisation-create/organisation-create.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="39" column="61" lean-forward="false" selection-start-line="39" selection-start-column="61" selection-end-line="39" selection-end-column="61" />
+          <folding>
+            <element signature="e#693#1240#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/person-create/person-create.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="20" column="2" lean-forward="false" selection-start-line="20" selection-start-column="2" selection-end-line="58" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/organisation-create/organisation-create.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="31" column="24" lean-forward="false" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/OrganizationService.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <element signature="n#!!block;n#all#0;n#OrganizationService#0" expanded="false" />
+            <element signature="n#!!block;n#update#0;n#OrganizationService#0" expanded="false" />
+            <element signature="n#!!block;n#activities#0;n#OrganizationService#0" expanded="false" />
+            <element signature="n#!!block;n#deals#0;n#OrganizationService#0" expanded="false" />
+            <element signature="n#!!block;n#files#0;n#OrganizationService#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/organization-list/organization-list.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="53" column="14" lean-forward="true" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/item-create/item-create.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="44" column="14" lean-forward="true" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+          <folding>
+            <element signature="e#722#1287#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/person-create/person-create.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="44" column="15" lean-forward="true" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
+          <folding>
+            <element signature="e#693#1240#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/activity-list/activity-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="29" column="15" lean-forward="false" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+          <folding>
+            <element signature="n#ion-item-options#0;n#ion-item-sliding#0;n#ion-list#0;n#ion-content#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="46" column="29" lean-forward="false" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+            <marker date="1489174488000" expanded="true" signature="1309:1632" ph="..." />
+            <marker date="1489174488000" expanded="true" signature="1326:1422" ph="..." />
+            <marker date="1489174488000" expanded="true" signature="1346:1404" ph="..." />
+            <marker date="1489174488000" expanded="true" signature="1441:1617" ph="..." />
+            <marker date="1489174488000" expanded="true" signature="1458:1598" ph="..." />
+            <marker date="1489174488000" expanded="true" signature="1540:1580" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/list-master/list-master.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/activity-list/activity-list.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/ActivityService.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="22" column="18" lean-forward="false" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!block;n#activities#0;n#ActivityService#0" expanded="false" />
+            <element signature="n#!!block;n#deals#0;n#ActivityService#0" expanded="false" />
+            <element signature="n#!!block;n#files#0;n#ActivityService#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="91" column="14" lean-forward="false" selection-start-line="91" selection-start-column="14" selection-end-line="91" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/list-master/list-master.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="41" column="34" lean-forward="true" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/activity-create/activity-create.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="69" column="51" lean-forward="true" selection-start-line="69" selection-start-column="51" selection-end-line="69" selection-end-column="51" />
+          <folding>
+            <element signature="e#719#1266#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/activity-create/activity-create.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="72" column="25" lean-forward="false" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+            <element signature="n#!!block;n#save#0;n#ActivityCreatePage#0" expanded="false" />
+            <element signature="n#!!block;n#fetchPerson#0;n#ActivityCreatePage#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/item-create/item-create.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="92" column="3" lean-forward="true" selection-start-line="92" selection-start-column="3" selection-end-line="92" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!block;n#constructor#0;n#ItemCreatePage#0" expanded="false" />
+            <element signature="e#1464#1515#0" expanded="false" />
+            <element signature="n#!!block;n#save#0;n#ItemCreatePage#0" expanded="false" />
+            <element signature="n#!!block;n#getValues#0;n#ItemCreatePage#0" expanded="false" />
+            <element signature="n#!!block;n#fetchPerson#0;n#ItemCreatePage#0" expanded="false" />
+            <element signature="n#!!block;n#getPicture#0;n#ItemCreatePage#0" expanded="false" />
+            <element signature="n#!!block;n#processWebImage#0;n#ItemCreatePage#0" expanded="false" />
+            <element signature="n#!!block;n#getProfileImageStyle#0;n#ItemCreatePage#0" expanded="false" />
+            <element signature="n#!!doc;n#cancel#0;n#ItemCreatePage#0" expanded="false" />
+            <element signature="n#!!block;n#cancel#0;n#ItemCreatePage#0" expanded="false" />
+            <element signature="n#!!doc;n#done#0;n#ItemCreatePage#0" expanded="false" />
+            <element signature="n#!!block;n#done#0;n#ItemCreatePage#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/deal-details/deal-details.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/person-list/person-list.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="56" column="11" lean-forward="true" selection-start-line="56" selection-start-column="11" selection-end-line="56" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/item-detail/item-detail.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="30" column="3" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+            <element signature="n#!!block;n#switchToDetails#0;n#ItemDetailPage#0" expanded="false" />
+            <element signature="n#!!block;n#switchToFlow#0;n#ItemDetailPage#0" expanded="false" />
+            <element signature="n#!!block;n#fetchActivitesForDeal#0;n#ItemDetailPage#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/item-detail/item-detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="n#ion-item-sliding#1;n#div#3;n#div#0;n#ion-content#0;n#!!top" expanded="false" />
+            <element signature="n#ion-item-sliding#2;n#div#3;n#div#0;n#ion-content#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/person-detail/person-detail.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="60" column="19" lean-forward="true" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+            <element signature="n#!!block;n#fetchActivities#0;n#PersonDetailPage#0" expanded="false" />
+            <element signature="n#!!block;n#fetchDeals#0;n#PersonDetailPage#0" expanded="false" />
+            <element signature="n#!!block;n#switchToGeneral#0;n#PersonDetailPage#0" expanded="false" />
+            <element signature="n#!!block;n#switchToFlow#0;n#PersonDetailPage#0" expanded="false" />
+            <element signature="n#!!block;n#switchToDeals#0;n#PersonDetailPage#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/deal-details/deal-details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/person-detail/person-detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="27" column="50" lean-forward="false" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+          <folding>
+            <element signature="e#900#906#0" expanded="true" />
+            <element signature="e#907#913#0" expanded="true" />
+            <marker date="1489182128000" expanded="true" signature="1401:1407" ph="..." />
+            <marker date="1489182128000" expanded="true" signature="1443:2212" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,36 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>{{ 'LIST_MASTER_TITLE' | translate }}</ion-title>
+    <ion-buttons end>
+      <button ion-button menuToggle icon-only>
+        <ion-icon name="ios-funnel-outline"></ion-icon>
+      </button>
+    </ion-buttons>
+  </ion-navbar>
+
+</ion-header>
+
+<ion-content>
+
+  <ion-list *ngIf="_pageStatus == 'loaded'">
+    <ion-item-sliding *ngFor="let item of _items.data">
+      <button ion-item (click)="openItem(item)">
+        <ion-avatar item-left>
+          <img [src]="'https://unsplash.it/200/300'" />
+        </ion-avatar>
+        <h2>{{item.name}}</h2>
+        <p><span>{{item.org_name}}</span></p>
+      </button>
+      <ion-item-options>
+        <button ion-button color="danger" (click)="deleteItem(item)">
+          Delete
+        </button>
+      </ion-item-options>
+    </ion-item-sliding>
+  </ion-list>
+  <ion-fab right middle>
+    <button ion-fab (click)="addItem()"><ion-icon name="add"></ion-icon></button>
+  </ion-fab>
+</ion-content>
+

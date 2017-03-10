@@ -1,0 +1,87 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>{{ item.name }}</ion-title>
+      <ion-buttons end>
+          <button ion-button menuToggle icon-only>
+              <ion-icon name="md-create"></ion-icon>
+          </button>
+      </ion-buttons>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content>
+    <ion-fab right bottom>
+        <button ion-fab color="light"><ion-icon name="arrow-dropup"></ion-icon></button>
+        <ion-fab-list side="left">
+            <button ion-fab><ion-icon name="ios-camera-outline"></ion-icon> </button>
+            <button ion-fab><ion-icon name="ios-attach-outline"></ion-icon> </button>
+            <button ion-fab (click) = "openActivity()" ><ion-icon name="ios-calendar-outline"></ion-icon> </button>
+            <button ion-fab><ion-icon name="ios-clipboard-outline"></ion-icon></button>
+        </ion-fab-list>
+    </ion-fab>
+  <div class="item-detail" padding>
+      <div>
+          <h2>{{item.title}}</h2>
+          <p>{{item.person_name}} &nbsp; &nbsp; &nbsp; {{item.org_name}}</p>
+      </div>
+      <div>
+          <hr>
+          <h2>{{item.formatted_value}}</h2>
+          <hr>
+      </div>
+    <ion-segment [(ngModel)]="relationship" color="primary">
+      <ion-segment-button value="flow" (ionSelect)="switchToFlow()">
+        Flow
+      </ion-segment-button>
+      <ion-segment-button value="details" (ionSelect)="switchToDetails()">
+        Details
+      </ion-segment-button>
+    </ion-segment>
+      <div *ngIf="_tab == 'flow'">
+          <ion-item-sliding *ngFor="let activity of _activities.data">
+              <button ion-item (click)="openItem(item)">
+                  <ion-avatar item-left>
+                    <img [src]="'http://www.clker.com/cliparts/0/f/c/2/1195445181899094722molumen_phone_icon.svg.med.png'" />
+                  </ion-avatar>
+                  <h2>{{activity.subject}}</h2>
+                  <p><span>{{activity.add_time}}</span> - <span>{{activity.person_name}}</span> - <span> {{activity.org_name}}</span></p>
+                  <ion-note item-right *ngIf="item.note">{{activity.note}}</ion-note>
+              </button>
+              <ion-item-options>
+                  <button ion-button color="danger" (click)="deleteItem(item)">
+                      {{ 'DELETE_BUTTON' | translate }}
+                  </button>
+              </ion-item-options>
+          </ion-item-sliding>
+      </div>
+      <div *ngIf="_tab == 'details'">
+          <ion-item-sliding>
+              <button>
+                  <h2>Expected close date</h2>
+                  <p>{{item.next_activity_date}}</p>
+              </button>
+          </ion-item-sliding>
+          <ion-item-sliding>
+              <button>
+                  <h2>Owner</h2>
+                  <p>{{item.creator_user_id}}</p>
+              </button>
+          </ion-item-sliding>
+          <ion-item-sliding>
+              <button>
+                  <h2>Created</h2>
+                  <p>{{item.add_time}}</p>
+              </button>
+          </ion-item-sliding>
+          <ion-item-sliding>
+              <button>
+                  <h2>Email BCC</h2>
+                  <p>{{item.cc_email}}</p>
+              </button>
+          </ion-item-sliding>
+      </div>
+  </div>
+</ion-content>
